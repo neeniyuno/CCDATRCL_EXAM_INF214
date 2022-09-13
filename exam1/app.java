@@ -99,6 +99,7 @@ public class App {
     System.out.println(surName);
 
     // 3. Add a "INF214" to the stack.
+    surName.push(" ");
     surName.push("I");
     surName.push("N");
     surName.push("F");
@@ -120,6 +121,7 @@ public class App {
 
 
     // 6. Add "CCDATRCL-INF214".
+    surName.push(" ");
     surName.push("C");
     surName.push("C");
     surName.push("D");
