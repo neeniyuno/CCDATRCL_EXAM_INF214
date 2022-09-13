@@ -118,7 +118,7 @@ public class App {
     surName.pop();
     surName.pop();
     surName.pop();
-
+    surName.pop();
 
     // 6. Add "CCDATRCL-INF214".
     surName.push(" ");
