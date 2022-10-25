@@ -1,5 +1,5 @@
 // Binary Tree in Java
-public class App {
+public class Exam {
 
     public static void main(String[] args) {
 
